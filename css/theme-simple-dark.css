@@ -1326,9 +1326,7 @@
     }
   }
   main {
-    position: absolute;
-    padding-left: 20%;
-    padding-right: 20%;
+    position: relative;
     overflow-x: hidden;
     min-height: 100vh;
   }
