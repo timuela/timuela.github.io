@@ -1,49 +1,4 @@
-.github-corner {
-    position: absolute;
-    z-index: 40;
-    top: 0;
-    right: 0;
-    border-bottom: 0;
-    text-decoration: none;
-  }
-  .github-corner svg {
-    height: 70px;
-    width: 70px;
-    fill: var(--theme-color);
-    color: var(--base-background-color);
-  }
-  .github-corner:hover .octo-arm {
-    -webkit-animation: octocat-wave 560ms ease-in-out;
-    animation: octocat-wave 560ms ease-in-out;
-  }
-  @-webkit-keyframes octocat-wave {
-    0%,
-    100% {
-      transform: rotate(0);
-    }
-    20%,
-    60% {
-      transform: rotate(-25deg);
-    }
-    40%,
-    80% {
-      transform: rotate(10deg);
-    }
-  }
-  @keyframes octocat-wave {
-    0%,
-    100% {
-      transform: rotate(0);
-    }
-    20%,
-    60% {
-      transform: rotate(-25deg);
-    }
-    40%,
-    80% {
-      transform: rotate(10deg);
-    }
-  }
+
   .progress {
     position: fixed;
     z-index: 2147483647;
@@ -157,9 +112,7 @@
     max-width: 100%;
     border: 0;
   }
-  main {
-    display: block;
-  }
+
   main.hidden {
     display: none;
   }
@@ -354,7 +307,7 @@
   }
   .markdown-section {
     position: relative;
-    max-width: var(--content-max-width);
+    max-width: 90%;
     margin: 0 auto;
     padding: 2rem 45px;
   }
@@ -766,6 +719,7 @@
     );
     color: var(--notice-tip-before-color, var(--notice-before-color));
   }
+  
   .cover {
     display: none;
     position: relative;
@@ -1325,11 +1279,7 @@
       margin-left: var(--sidebar-width);
     }
   }
-  main {
-    position: relative;
-    overflow-x: hidden;
-    min-height: 100vh;
-  }
+
   .sidebar,
   .sidebar-toggle,
   .sidebar + .content {
