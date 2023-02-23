@@ -60,4 +60,4 @@ Verify that you can run `docker` commands without `sudo`.
   ```bash
   docker run hello-world
   ```
-
+Now you can [Install Laravel](laravel.md)

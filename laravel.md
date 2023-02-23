@@ -1,5 +1,4 @@
-
-# Getting Started On Linux
+# Instal Laravel
 ## Create a Project
 If you're developing on Linux and `Docker Compose` is already installed, 
 you can use a simple terminal command to create a new Laravel project. 
@@ -25,7 +24,6 @@ Github Desktop on Linux Mint:
 ```bash
 https://github.com/shiftkey/desktop
 ```
-
 ## Configuring A Shell Alias
 By default, Sail commands are invoked using the vendor/bin/sail script that is included with all new Laravel applications:
 ```bash
