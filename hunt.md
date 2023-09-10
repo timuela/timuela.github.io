@@ -63,21 +63,7 @@ Quick Charge means charge your first lure quick - duh.
 <script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Gantylyst
-<div align=center>
-<video src="https://media.githubusercontent.com/media/timuela/timuela.github.io/main/Capture.mp4" controls width="50%">
-</div>
 
 ## Hydrolyst
 
-<div style="padding:40.25% 0 0 0;position:relative;">
-    <iframe 
-        src="https://media.githubusercontent.com/media/timuela/timuela.github.io/main/Capture.mp4" 
-        controls
-        frameborder="0" 
-        allow="autoplay; fullscreen; picture-in-picture" 
-        style="position:absolute;top:0;left:0;width:100%;height:100%;" 
-        title="Capture">
-    </iframe>
-</div>
-<script src="https://player.vimeo.com/api/player.js"></script>
 
