@@ -63,6 +63,9 @@ Quick Charge means charge your first lure quick - duh.
 <script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Gantylyst
+<div align='center'>
+    <video src="https://video-storage-timuela.s3.ap-southeast-1.amazonaws.com/videos/Warframe+2023-09-08+20-35-49.mp4" controls width="72%"></video>
+</div>
 
 ## Hydrolyst
 
