@@ -11,7 +11,7 @@ Quick Charge means charge your first lure quick - duh.
 
 <div align="center">
     <video 
-        src="https://timuela.s3.ap-southeast-1.amazonaws.com/timuela-eidolon-videos/QC.mp4" 
+        src="https://timuela.s3.ap-southeast-1.amazonaws.com/timuela-eidolon-videos/Get 2 lures.mp4" 
         width="70%" 
         controls>
     </video>
