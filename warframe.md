@@ -3,7 +3,7 @@
 ## Total Gear
 
 <div align="center">
-<img src="img/Warframe.png" width="100%"/>
+<img src="img/Warframe.png" width="100%" />
 </div>
 
 ## Warframe
@@ -12,6 +12,13 @@
 <img src="img/Warframe-Wiki.png" width="70%" alt="bar"/>
 <img src="img/Warframe-Mods.png" width="70%" alt="bar"/>
 </div>
+
+## Operator
+
+<div align="center">
+<img src="img/Operator.png" width="70%" alt="bar"/>
+</div>
+
 
 ## Zenith
 
