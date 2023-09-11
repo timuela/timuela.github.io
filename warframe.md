@@ -2,8 +2,8 @@
 
 ## Total Gear
 
-<div align="right">
-<img src="img/Warframe.png" width="100%" alt="bar"/>
+<div align="center">
+<img src="img/Warframe.png" width="100%"/>
 </div>
 
 ## Warframe
