@@ -1,9 +1,9 @@
 const path = require('path');
 
 module.exports = {
-  entry: './js/libs/docsify-copy-code.min.js', // Your entry CSS file
+  entry: './css/gitalk.css', // Your entry CSS file
   output: {
-    filename: 'docsify-copy-code.min2.js', // Output bundled file name
+    filename: 'gitalk.css', // Output bundled file name
     path: path.resolve(__dirname, 'dist'), // Output directory
   },
   devtool: 'source-map', // Enable source maps for debugging
