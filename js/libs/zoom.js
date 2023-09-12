@@ -45,3 +45,33 @@ observedZooms.forEach(zoom => {
     }"</em> was detached at ${time}</li>`
   })
 })
+
+// const gitalk = new Gitalk({
+//   clientID: '5d5d2ccbdfc905efae38',
+//   clientSecret: 'efd34fc1dfa460984be2ac29e7a7fb40a4e2b8ee',
+//   repo: 'timuela.github.io',      // The repository of store comments,
+//   owner: 'timuela',
+//   admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
+//   id: location.pathname,      // Ensure uniqueness and length less than 50
+//   distractionFreeMode: false  // Facebook-like distraction free mode
+// })
+
+// gitalk.render('gitalk-container')
+
+const gitment = new Gitment({
+  // id: 'Your page ID', // optional
+  owner: 'timuela',
+  repo: 'timuela.github.io',
+  oauth: {
+    client_id: '5d5d2ccbdfc905efae38',
+    client_secret: 'efd34fc1dfa460984be2ac29e7a7fb40a4e2b8ee',
+  },
+  // ...
+  // For more available options, check out the documentation below
+})
+
+gitment.render('comments')
+// or
+// gitment.render(document.getElementById('comments'))
+// or
+// document.body.appendChild(gitment.render())
