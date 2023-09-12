@@ -57,21 +57,3 @@ observedZooms.forEach(zoom => {
 // })
 
 // gitalk.render('gitalk-container')
-
-const gitment = new Gitment({
-  // id: 'Your page ID', // optional
-  owner: 'timuela',
-  repo: 'timuela.github.io',
-  oauth: {
-    client_id: '5d5d2ccbdfc905efae38',
-    client_secret: 'efd34fc1dfa460984be2ac29e7a7fb40a4e2b8ee',
-  },
-  // ...
-  // For more available options, check out the documentation below
-})
-
-gitment.render('comments')
-// or
-// gitment.render(document.getElementById('comments'))
-// or
-// document.body.appendChild(gitment.render())

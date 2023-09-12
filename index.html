@@ -9,19 +9,27 @@
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="css/theme-simple-dark.css">
     <link rel="stylesheet" href="css/theme-custom.css">
+    <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
     <!-- Docsify v4 -->
   </head>
   <body>
-    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
     <div id="app"></div>
-    <div id="comments"></div>   
     <script src="js/index.js"></script>
     <script src="js/libs/copy-code-v2.js"></script>
     <script src="js/libs/docsify-v4.js"></script>
     <script src="js/libs/prism-bash.js"></script>
     <script src="js/libs/zoom-image.min.js"></script>
     <script src="js/libs/zoom.js"></script>
-    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-
+    <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+      const gitalk = new Gitalk({
+        clientID: '5d5d2ccbdfc905efae38',
+        clientSecret: 'efd34fc1dfa460984be2ac29e7a7fb40a4e2b8ee',
+        repo: 'timuela.github.io',
+        owner: 'timuela',
+        admin: ['Github repo collaborators, only these guys can initialize github issues'],
+        distractionFreeMode: false})
+        </script>
   </body>
 </html>
