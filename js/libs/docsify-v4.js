@@ -186,7 +186,7 @@
                 return (M[e] || (M[e] = new RegExp("^" + e + "$"))).test(n) && n !== o
             })[0];
             return t ? e(n.replace(M[t], i[t]), i, n) : n
-        }(e, t.alias) : e, i = e, o = r, e = (e = new RegExp("\\.(" + o.replace(/^\./, "") + "|html)$", "g").test(i) ? i : /\/$/g.test(i) ? i + "README" + o : "" + i + o) === "/README" + r && t.homepage || e, e = T(e) ? e : q(a, e), e = n ? e.replace(new RegExp("^" + a), "") : e
+        }(e, t.alias) : e, i = e, o = r, e = (e = new RegExp("\\.(" + o.replace(/^\./, "") + "|html)$", "g").test(i) ? i : /\/$/g.test(i) ? i + "Home" + o : "" + i + o) === "/Home" + r && t.homepage || e, e = T(e) ? e : q(a, e), e = n ? e.replace(new RegExp("^" + a), "") : e
     }, I.prototype.onchange = function(e) {
         (e = void 0 === e ? d : e)()
     }, I.prototype.getCurrentPath = function() {}, I.prototype.normalize = function() {}, I.prototype.parse = function() {}, I.prototype.toURL = function(e, n, i) {
@@ -471,7 +471,7 @@
                 externalLinkTarget: "_blank",
                 formatUpdated: "",
                 ga: "",
-                homepage: "README.md",
+                homepage: "public/home.md",
                 loadNavbar: null,
                 loadSidebar: null,
                 maxLevel: 6,
@@ -4276,7 +4276,7 @@
                 t = On(n = void 0 === n ? "" : n),
                 a = t.str,
                 t = t.config;
-            return u = t.target || u, r = "_blank" === u ? f.config.externalLinkRel || "noopener" : "", n = a, T(e) || f._matchNotCompileLink(e) || t.ignore ? (T(e) || "./" !== e.slice(0, 2) || (e = document.URL.replace(/\/(?!.*\/).*/, "/").replace("#/./", "") + e), o.push(0 === e.indexOf("mailto:") ? "" : 'target="' + u + '"'), o.push(0 !== e.indexOf("mailto:") && "" !== r ? ' rel="' + r + '"' : "")) : (e === f.config.homepage && (e = "README"), e = c.toURL(e, null, c.getCurrentPath())), t.crossorgin && "_self" === u && "history" === f.config.routerMode && -1 === f.config.crossOriginLinks.indexOf(e) && f.config.crossOriginLinks.push(e), t.disabled && (o.push("disabled"), e = "javascript:void(0)"), t.class && o.push('class="' + t.class + '"'), t.id && o.push('id="' + t.id + '"'), n && o.push('title="' + n + '"'), '<a href="' + e + '" ' + o.join(" ") + ">" + i + "</a>"
+            return u = t.target || u, r = "_blank" === u ? f.config.externalLinkRel || "noopener" : "", n = a, T(e) || f._matchNotCompileLink(e) || t.ignore ? (T(e) || "./" !== e.slice(0, 2) || (e = document.URL.replace(/\/(?!.*\/).*/, "/").replace("#/./", "") + e), o.push(0 === e.indexOf("mailto:") ? "" : 'target="' + u + '"'), o.push(0 !== e.indexOf("mailto:") && "" !== r ? ' rel="' + r + '"' : "")) : (e === f.config.homepage && (e = "Home"), e = c.toURL(e, null, c.getCurrentPath())), t.crossorgin && "_self" === u && "history" === f.config.routerMode && -1 === f.config.crossOriginLinks.indexOf(e) && f.config.crossOriginLinks.push(e), t.disabled && (o.push("disabled"), e = "javascript:void(0)"), t.class && o.push('class="' + t.class + '"'), t.id && o.push('id="' + t.id + '"'), n && o.push('title="' + n + '"'), '<a href="' + e + '" ' + o.join(" ") + ">" + i + "</a>"
         }), t.paragraph = {
             renderer: e
         }.renderer.paragraph = function(e) {

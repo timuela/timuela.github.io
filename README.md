@@ -1,2 +1,0 @@
-# Guide
- [Start](warframe.md)

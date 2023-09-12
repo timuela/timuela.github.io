@@ -1,6 +1,6 @@
-- Build
-
-  - [Warframe](public/warframe.md)
+- Getting Started
+  - [Home](public/home.md)
+  - [Gear](public/gear.md)
   - [Enemies](public/enemies.md)
   - [Hunt](public/hunt.md)
   - [Discussion](public/discussion.md)
