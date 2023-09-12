@@ -9,8 +9,8 @@
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="css/theme-simple-dark.css">
     <link rel="stylesheet" href="css/theme-custom.css">
-
-    <link rel="stylesheet" href="css/gitalk.css">
+    <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+    <!-- <link rel="stylesheet" href="css/gitalk.css"> -->
 
   </head>
   <body>
@@ -22,8 +22,20 @@
     <script src="js/libs/zoom-image.min.js"></script>
     <script src="js/libs/zoom.js"></script>
 
-    <script src="js/libs/plugins-gitalk.min.js"></script>
+    <!-- <script src="js/libs/plugins-gitalk.min.js"></script>
     <script src="js/libs/dist-gitalk.min.js"></script>
-    <script src="js/libs/config-gitalk.js"></script>
+    <script src="js/libs/config-gitalk.js"></script> -->
+
+    <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+      const gitalk = new Gitalk({
+    clientID: '5d5d2ccbdfc905efae38',
+    clientSecret: 'efd34fc1dfa460984be2ac29e7a7fb40a4e2b8ee',
+    repo: 'timuela.github.io',
+    owner: 'timuela',
+    admin: ['timuela'],
+    distractionFreeMode: false})
+    </script>
   </body>
 </html>
