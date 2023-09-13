@@ -1,4 +1,10 @@
 
+  .gear {
+    margin: auto;
+    width: 70%;
+  }
+
+
   .progress {
     position: fixed;
     z-index: 2147483647;
