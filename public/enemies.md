@@ -69,6 +69,7 @@ Parts that are highlighted red are limbs
 
 ### Use Vastilok
 - Vastilok is a Gunblade, that means it's a shotgun disguise as a Melee
+
 ### Use Zenith
 - Zenith is a primary weapon, if your Vastilok couldn't finish the limb, just click Left Mouse to fire Zenith
 - Zenith have 2 fire mode, Auto and Semi-Auto. You'll want the Semi-Auto Mode since it deals higher damage

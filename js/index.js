@@ -14,4 +14,8 @@ window.$docsify = {
         placeholder: 'Type to search',
         noData: 'No Results!',
     },
+    gifcontrol: {
+        overlayColor: 'rgba(0,0,0,0.7)',
+        errorText: 'Oh no! Image not found...',
+    }
 }
