@@ -1,39 +1,39 @@
 ## Total Gear
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Warframe.webp"/>
 </div>
 
 ## Operator
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Operator.webp"/>
 </div>
 
 ## Warframe
 
-<div class="gear">
+<div class="w70">
     <img src="img-small/Warframe-Wiki.webp"/>
     </div>
-<div class="gear">
+<div class="w70">
     <img src="img-small/Warframe-Mods.webp"/>
     </div>
 
 ## Zenith
 
-<div class="gear">
+<div class="w70">
     <img src="img-small/Zenith-Wiki.webp"/>
     </div>
-<div class="gear">
+<div class="w70">
     <img src="img-small/Zenith-Mods.webp"/>
     </div>
 
 ## Vermisplicer
 
-<div class="gear">
+<div class="w70">
     <img src="img-small/Vermisplicer-Wiki.webp"/>
     </div>
-<div class="gear">
+<div class="w70">
     <img src="img-small/Vermisplicer-Mods.webp"/>
     </div>
 
@@ -48,7 +48,7 @@ High noon for maximum amounts of pellets since Shattering Impact strips 6 armor 
 
 ## Madurai
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Madurai.webp"/>
 </div>
 
@@ -56,7 +56,7 @@ High noon for maximum amounts of pellets since Shattering Impact strips 6 armor 
 
 Untraceble for invisible after hacking
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Parazon.webp"/>
 </div>
 
@@ -66,7 +66,7 @@ Cold Snap to freeze vomvalysts
 
 Hyperion Thrusters for fly speed
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Itzal.webp"/>
 </div>
 
@@ -74,7 +74,7 @@ Hyperion Thrusters for fly speed
 
 ### Negate
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Wyrm-Prime.webp"/>
 </div>
 
@@ -82,7 +82,7 @@ Hyperion Thrusters for fly speed
 
 Set Stat: "15% chance to enhance Critical Hits"
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Sweeper-Prime.webp"/>
 </div>
 
@@ -94,7 +94,7 @@ Gear Wheel have:
 2. On Call Crew - Bind to 9
 3. Archwing Launcher - Bind to Mouse Wheel Down
 4. Squad Energy Restore - Bind to Ctrl
-<div class="gear">
+<div class="w70">
 <img src="img-small/Gearwheel.webp"/>
 </div>
 
@@ -102,7 +102,7 @@ Gear Wheel have:
 
 Command must be at least Rank 9 to use On Call
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Intrinsic.webp"/>
 </div>
 
@@ -110,7 +110,7 @@ Command must be at least Rank 9 to use On Call
 
 Crewmate equip Kuva Nukor
 
-<div class="gear">
+<div class="w70">
 <img src="img-small/Crew.webp"/>
 </div>
 

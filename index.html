@@ -16,32 +16,17 @@
     <div id="app"></div>
     <script src="js/index.js"></script>
     <script src="js/libs/copy-code-v2.js"></script>
-    <script src="js/libs/docsify-v4.js"></script>
+    <!-- <script src="js/libs/docsify-v4.js"></script> -->
+    <script src="js/libs/docsify.min.js"></script>
+    <script src="js/libs/search.min.js"></script>
     <script src="js/libs/prism-bash.js"></script>
     <script src="js/libs/zoom-image.min.js"></script>
     <script src="js/libs/zoom.js"></script>
+    <script src="js/libs/external-script.min.js"></script>
     <!-- Start Gitalk-->
-    <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-    <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-    <script>
-      const gitalk = new Gitalk({
-    clientID: '5d5d2ccbdfc905efae38',
-    clientSecret: 'efd34fc1dfa460984be2ac29e7a7fb40a4e2b8ee',
-    repo: 'timuela.github.io',
-    owner: 'timuela',
-    admin: ['timuela'],
-    distractionFreeMode: false,
-    createIssueManually:true,
-    flipMoveOptions:{
-    staggerDelayBy: 150,
-    appearAnimation: 'fade',
-    enterAnimation: 'fade',
-    leaveAnimation: 'fade',
-  },
-    id: 'public/discussion',
-  })
-    </script>
-
+    <script src="js/libs/gitalk.min.js"></script>
+    <script src="js/libs/gitalk.dist.min.js"></script>
+    <script src="js/libs/gitalk.config.js"></script>
     <!-- End Gitalk-->
   </body>
 </html>

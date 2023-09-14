@@ -8,5 +8,10 @@ window.$docsify = {
     },
     loadSidebar: true,
     subMaxLevel: 2,
-    repo: ''
+    repo: '',
+    search: {
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+    },
 }

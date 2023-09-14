@@ -7,8 +7,8 @@
 
 ### What is a shield?
 
-<div align="right">
-<img src="img/Shield.png" width="70%" alt="bar"/>
+<div class="w70">
+<img src="img-small/Shield.webp"/>
 </div>
 
 ### How to take down a shield
@@ -17,14 +17,14 @@
 
 #### 1. Void Strike
 
-   - <div>
-     <img src="img/Void Strike.png" width="30%" alt="bar"/>
-     <img src="img/Energy Bar.png" width="30%" alt="bar"/>
+   - <div class="w30">
+     <img src="img-small/Void-Strike.webp"/>
+     <img src="img-small/Energy-Bar.webp"/>
      </div>
    - Activating Void Strike with a 100% bar of Energy gives you 10% x 100% = 1000% damage increase
    - This also activate Eternal Onslaught and Eternal Eradicate.
    <div>
-   <img src="img/Amp Arcanes.png" width="100%" alt="bar"/>
+   <img src="img-small/Amp-Arcanes.webp"/>
    </div>
    - Do the math and you'll have
      - Crit Chance:
@@ -32,20 +32,20 @@
        - Propa = 90%
      - Damage: a shit ton
    - Since raplak will guarantee crit, everytime you activate Void Strike just use Raplak
-   <div>
-   <img src="gif/Raplak Shield.gif" width="70%" alt="bar"/>
+   <div class="w70">
+   <img src="gif/Raplak-Shield.gif"/>
    </div>
 
 #### 2. Depleting Energy
 - You used Void Strike, can't use it again since cool down time is 40s. Now what do you do?
 - Use your 2nd Ability - Contamination Wave
-    <div>
-    <img src="img/Contamination Wave.png" width="30%" alt="bar"/>
-    <img src="img/CW Bar.png" width="30%" alt="bar"/>
+    <div class="w30">
+    <img src="img-small/Contamination-Wave.webp"/>
+    <img src="img-small/CW-Bar.webp"/>
     </div>
 - Activate CW 3 times and a Void Sling if you have a full bar of Energy.
-    <div>
-    <img src="gif/Propa Shield.gif" width="70%" alt="bar"/>
+    <div class="w70">
+    <img src="gif/Propa-Shield.gif"/>
     </div>
 - Then Propa - Propa - Raplak to destroy the shield.
 -     Propa - Propa - Raplak = Middle Mouse - Middle Mouse - Left Click
@@ -61,10 +61,10 @@
 
 Parts that are highlighted red are limbs
 
-<div>
-<img src="img/Teralyst.png" width="30%" alt="bar"/>
-<img src="img/Gantulyst.png" width="30%" alt="bar"/>
-<img src="img/Hydrolyst.png" width="30%" alt="bar"/>
+<div class="w30">
+<img src="img-small/Teralyst.webp"/>
+<img src="img-small/Gantulyst.webp"/>
+<img src="img-small/Hydrolyst.webp"/>
 </div>
 
 ### Use Vastilok
