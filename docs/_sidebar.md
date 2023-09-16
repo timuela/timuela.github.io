@@ -1,0 +1,13 @@
+- Getting Started
+
+  - [Home](home.md)
+  - [Gear](gear.md)
+  - [Basic Knowledge](basic-knowledge.md)
+- How To Hunt
+  - [Teralyst](teralyst.md)
+  - [Gantulyst](gantulyst.md)
+  - [Hydrolyst](hydrolyst.md)
+- Advanced
+  - [Advanced Knowledge](advanced-knowledge.md)
+  - [Damage Calculator](dmg-calc.md)
+  - [Discussion](discussion.md)
