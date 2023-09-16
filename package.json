@@ -15,6 +15,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "docsify-darklight-theme": "^3.2.0"
+    "docsify-darklight-theme": "^3.2.0",
+    "glob-parent": "^5.1.2"
   }
 }
