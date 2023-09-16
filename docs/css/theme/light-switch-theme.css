@@ -735,6 +735,7 @@ body {
 .markdown-section pre {
   background-color: var(--codeBackgroundColor);
   font-family: var(--codeFontFamily);
+  border-radius: 5px;
 }
 .markdown-section pre {
   -moz-osx-font-smoothing: initial;

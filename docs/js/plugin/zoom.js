@@ -45,3 +45,11 @@ observedZooms.forEach(zoom => {
     }"</em> was detached at ${time}</li>`
   })
 })
+
+mediumZoom ('[data-zoomable]', {
+  margin: 0,
+  background: '#c3ff00',
+  scrollOffset: 0,
+  container: '#zoom-container',
+  template: '#zoom-template',
+})
