@@ -72,5 +72,16 @@ window.$docsify = {
             coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
             toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
         }
+    },
+
+// https://github.com/daidi/docsify-valine/
+    Valine: {
+        appId: 'gqJExTfNseWaBNLgvALrhwKX-MdYXbMMI',
+        appKey: 'CemjW9EQIREq2zs4tv54KZML',
+        // docPath: 'hash', //default to `hash` ,or you can choose `full`
+        // avatar: 'robohash',
+        lang: 'en',
+        placeholder:'Leave a comment'
     }
+
 }
