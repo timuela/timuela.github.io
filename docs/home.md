@@ -10,5 +10,3 @@
 - Disclaimer: The whole build cost about 3000 plats.
 
 [Start](gear.md)
-
- Login with a Github Account to comment.

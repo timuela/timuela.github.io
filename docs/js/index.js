@@ -74,14 +74,4 @@ window.$docsify = {
         }
     },
 
-// https://github.com/daidi/docsify-valine/
-    Valine: {
-        appId: 'gqJExTfNseWaBNLgvALrhwKX-MdYXbMMI',
-        appKey: 'CemjW9EQIREq2zs4tv54KZML',
-        // docPath: 'hash', //default to `hash` ,or you can choose `full`
-        // avatar: 'robohash',
-        lang: 'en',
-        placeholder:'Leave a comment'
-    }
-
 }

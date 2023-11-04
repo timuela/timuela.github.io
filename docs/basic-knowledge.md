@@ -75,14 +75,6 @@
 
 - Activate CW 3 times and a Void Sling if you have a full bar of Energy.
 
-<!-- div:right-panel -->
-
-  <div>
-  <img src="gif/Propa-Shield.gif"/>
-  </div>
-
-<!-- div:left-panel -->
-
 - Then Propa - Propa - Raplak to destroy the shield.
 
 -     Propa - Propa - Raplak = Middle Mouse - Middle Mouse - Left Click
@@ -94,6 +86,13 @@
 - Then press E to Melee (Vastilok) to destroy the limb
 
 -     Pressing 5 to transfer from Operator to Warframe is significantly slower than pressing E
+
+<!-- div:right-panel -->
+
+  <div>
+  <img src="gif/Propa-Shield.gif"/>
+  </div>
+
 
 <!-- div:title-panel -->
 
