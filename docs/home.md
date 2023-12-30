@@ -1,5 +1,5 @@
 # Home
-- Do you have no friends?
+- Do you have no friends??
 - Did Warframe just launch a major Update and broke fucking everything so all of your friends moved to Valorant?
 - You tried to go with them but you suck at Valorant?
 - So you came back and there's no one to hunt with?
