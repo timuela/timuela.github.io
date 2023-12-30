@@ -6,7 +6,7 @@
 - Did you ask people to carry you but not one single person replied?
 
 #### Well you came to the right place
-- This is all you need to know to hunt ALONE!!
+- This is all you need to know to hunt ALONE!
 - Disclaimer: The whole build cost a lot of plats. Probably in the thousands.
 
 [Start](gear.md)
