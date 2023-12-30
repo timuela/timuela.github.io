@@ -7,6 +7,6 @@
 
 #### Well you came to the right place
 - This is all you need to know to hunt ALONE.
-- Disclaimer: The whole build cost about 3000 plats.
+- Disclaimer: The whole build cost a lot of plats. Probably in the thousands.
 
 [Start](gear.md)
