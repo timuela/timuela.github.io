@@ -103,20 +103,41 @@
 
 Parts that are highlighted red are limbs
 
-<div class="w30">
-<img src="img-small/Teralyst.webp"/>
-<img src="img-small/Gantulyst.webp"/>
-<img src="img-small/Hydrolyst.webp"/>
-</div>
+  <div class="w30">
+    <img src="img-small/Teralyst.webp"/>
+    <img src="img-small/Gantulyst.webp"/>
+    <img src="img-small/Hydrolyst.webp"/>
+  </div>
 
 ### Use Vastilok
 
 - Vastilok is a Gunblade, that means it's a shotgun disguise as a Melee
+<div class="w70">
+<img src="img-small/Warframe Eidolon - Teralyst Remaining Limbs Vastilok.jpg"/>
+</div>
 
 ### Use Zenith
 
 - Zenith is a primary weapon, if your Vastilok couldn't finish the limb, just click Left Mouse to fire Zenith
-- Zenith have 2 fire mode, Auto and Semi-Auto. You'll want the Semi-Auto Mode since it deals higher damage
-- To Switch to Semi-Auto, click Middle Mouse.
-
+- Zenith have 2 fire mode, Auto and Semi. You'll want the Semi Mode since it deals higher damage
+- To Switch to Semi, click Middle Mouse.
+<div class="w70">
+<img src="img-small/Warframe Eidolon - Teralyst QC - Zenith.jpg"/>
+</div>
 <!-- panels:end -->
+
+## Shrine
+### Get the Brilliant Shard
+Sacrifice your the Brilliant Shards (which you just got from Lure drops) into The Shrine to spawn Gantulyst/Hydrolyst
+<div class="w70">
+  <div class="w50">
+    <img src="img-small/lure-drops.png"/>
+    <img src="img-small/brilliant-shard.png"/>
+  </div>
+</div>
+
+### Press X to sacrifice
+<div class="w70">
+<img src="img-small/Brilliant Eidolon Shard Shrine.jpg"/>
+</div>
+

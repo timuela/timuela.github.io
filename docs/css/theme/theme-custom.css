@@ -12,6 +12,10 @@
   margin: auto;
   width: 30%;
 }
+.w50 img {
+  margin: auto;
+  width: 49%;
+}
 .youtube-wrapper {
   position: relative;
   padding-bottom: 40%;
