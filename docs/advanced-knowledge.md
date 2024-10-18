@@ -34,7 +34,7 @@ There are a total of 4 spots called Close Left, Close Right, Mid, Long.
 
 ### Close Right
 
-CR is easy, shoot limbs in whatever order you like, preferably lefr - right - left - right.
+CR is easy, shoot limbs in whatever order you like, preferably left - right - left - right.
 
 <div class="youtube-wrapper">
     <iframe 
