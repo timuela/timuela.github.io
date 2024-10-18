@@ -119,10 +119,4 @@ Parts that are highlighted red are limbs
 - Zenith have 2 fire mode, Auto and Semi-Auto. You'll want the Semi-Auto Mode since it deals higher damage
 - To Switch to Semi-Auto, click Middle Mouse.
 
-## Teralyst
-
-## Gantulyst
-
-## Hydrolyst
-
 <!-- panels:end -->
