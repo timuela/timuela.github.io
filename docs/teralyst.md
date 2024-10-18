@@ -1,5 +1,7 @@
 # Teralyst
+
 ## Quick Charge (QC)
+
 Quick Charge means charge your first lure quick - duh.
 
 <div class="youtube-wrapper">
@@ -15,7 +17,7 @@ Quick Charge means charge your first lure quick - duh.
 
 <div class="youtube-wrapper">
     <iframe
-        src="https://www.youtube.com/embed/vQtk_WLykOA?si=bKX31lgSIaTxW7b_"
+        src="https://www.youtube.com/embed/zMgpAiID2gI?si=HBFQLreTRPWENRlo"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
     </iframe>
@@ -25,7 +27,7 @@ Quick Charge means charge your first lure quick - duh.
 
 <div class="youtube-wrapper">
     <iframe 
-        src="https://www.youtube.com/embed/X5dCeqVHaR8?si=A1jNonlxdQrvwl4l"
+        src="https://www.youtube.com/embed/uKfZ-41Tmy8?si=ZYsb84weMoTLn6dR"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
     </iframe>
@@ -35,7 +37,7 @@ Quick Charge means charge your first lure quick - duh.
 
 <div class="youtube-wrapper">
     <iframe 
-        src="https://www.youtube.com/embed/V01MFqB8A5M?si=CrYLdJn2_Nv8c4Gx"
+        src="https://www.youtube.com/embed/YpsTGlDkqcM?si=sPJntNNaICJGBSaq"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
     </iframe>
@@ -45,7 +47,7 @@ Quick Charge means charge your first lure quick - duh.
 
 <div class="youtube-wrapper">
     <iframe 
-        src="https://www.youtube.com/embed/3nDhNGDSMo4?si=t_e1qxwJ_oalnlPi"
+        src="https://www.youtube.com/embed/hNuBcFC7sm4?si=XPa0MiVinV6BfV5o"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
     </iframe>
