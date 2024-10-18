@@ -9,5 +9,5 @@
   - [Hydrolyst](hydrolyst.md)
 - Advanced
   - [Advanced Knowledge](advanced-knowledge.md)
-  - [Damage Calculator](dmg-calc.md)
-  - [Discussion](discussion.md)
+  <!-- - [Damage Calculator](dmg-calc.md)
+  - [Discussion](discussion.md) -->
