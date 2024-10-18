@@ -113,6 +113,4 @@ Crewmate equip Kuva Nukor
 <img src="img-small/Crew.webp"/>
 </div>
 
-# Now Let's Hunt
-
-[Hunt](hunt.md)
+[Basic Knowledge](basic-knowledge.md)

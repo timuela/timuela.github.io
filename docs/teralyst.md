@@ -6,7 +6,7 @@ Quick Charge means charge your first lure quick - duh.
 
 <div class="youtube-wrapper">
     <iframe 
-        src="https://www.youtube.com/embed/rUCY3UuX4vg?si=LdHkVDQ2dUARNB4X" 
+        src="https://www.youtube.com/embed/WOzS8odiO1o?si=W89VD8qloVvo_lGf" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         frameborder="0"
         allowfullscreen>
