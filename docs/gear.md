@@ -107,7 +107,7 @@ Command must be at least Rank 9 to use On Call
 
 ## Crew
 
-Crewmate equip Kuva Nukor
+Crewmate equip Kuva Nukor or a big AOE secondary.
 
 <div class="w70">
 <img src="img-small/Crew.webp"/>
